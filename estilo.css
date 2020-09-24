@@ -45,3 +45,10 @@
     background-color: #3f51b5 !important;font-size: 75%;
     font-weight: 700;
 }
+
+.btn-eliminar{
+    cursor: pointer; padding: .5rem 1.6rem;
+    font-size: .64rem; color: #fff;
+    background-color: #FF4C4C !important;font-size: 75%;
+    font-weight: 700;
+}

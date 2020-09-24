@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('../images/fondoInicio.png');
+    height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

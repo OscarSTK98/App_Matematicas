@@ -1,0 +1,23 @@
+.encabezado-cuadro-texto{
+	color:black;
+}
+
+.background-image {
+    background-image: url('www/images/escuelafondo3.png');
+    height: 1100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*position: relative;*/
+}
+
+.white-box{
+	background-color:  white;
+	position: absolute;
+	height: 950px;
+	width: 800px;
+	margin-top: 50px;
+	border-radius: 50px;
+	margin-left: 305px;
+	opacity: 0.93;
+}

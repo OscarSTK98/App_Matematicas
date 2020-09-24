@@ -1,0 +1,46 @@
+
+
+.background-image {
+    background-image: url('www/images/escuelafondo3.png');
+    height: 1100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*position: relative;*/
+}
+
+
+.white-box{
+	background-color:  white;
+	position: inherit;
+	height: 950px;
+	width: 800px;
+	margin-top: 50px;
+	border-radius: 50px;
+	margin-left: 305px;
+}
+
+@media (max-width: 1390px){
+  .white-box{
+  	width: 650px;
+  	margin-left: 200px;
+  }
+    
+}
+
+@media (max-width: 1000px){
+  .white-box{
+  	width: 400px;
+  	margin-left: 100px;
+  }
+    
+}
+
+@media (max-width: 615px){
+  .white-box{
+  	width: 350px;
+  	margin-left: 30px;
+  	height: 1000px
+  }
+    
+}
